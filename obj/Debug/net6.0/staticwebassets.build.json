@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bSCzo24qGUTXO4LhUAsotPbwtkA1eBWjoSTB0UcDGYA=",
+  "Source": "OpenAIChatGPT",
+  "BasePath": "_content/OpenAIChatGPT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
